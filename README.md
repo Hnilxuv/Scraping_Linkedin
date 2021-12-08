@@ -1,5 +1,4 @@
-# Scraping_Linkedin_Profile
-Web Scraping: Crawling Linkedin Profiles
+#Web Scraping: Crawling Linkedin Profiles
 
 Problem:
 It takes 10s on average to skim through Linkedin profiles and copy that information into an excel sheet. To collect a large enough amount of data for analysis purposes, it will take time if done manually.
